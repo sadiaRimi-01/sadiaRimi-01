@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="[YOUR_IMAGE_LINK](https://github.com/sadiaRimi-01/sadiaRimi-01/blob/main/Black%20and%20Green%20Simple%20Business%20Youtube%20Thumbnail%20(1).png)" alt="Sadia Akter Rimi Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sadiaRimi-01/sadiaRimi-01/main/Black%20and%20Green%20Simple%20Business%20Youtube%20Thumbnail%20(1).png
+" alt="Sadia Akter Rimi Banner" width="100%" />
 </p>
 
 
