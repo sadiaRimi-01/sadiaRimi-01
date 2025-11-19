@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sadia Akter Rimi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="center">
+  <img src="[YOUR_IMAGE_LINK](https://github.com/sadiaRimi-01/sadiaRimi-01/blob/main/Black%20and%20Green%20Simple%20Business%20Youtube%20Thumbnail%20(1).png)" alt="Sadia Akter Rimi Banner" width="100%" />
+</p>
+
+
 - 🌱 I’m currently learning **React and java script.**
 
 - 💬 Ask me about **I’m currently working on full-stack web projects . Learning: React, Node.js, MongoDB, Express .I love solving problems and building clean UI. I am interested in Data Science, Algorithms & UI/UX**
