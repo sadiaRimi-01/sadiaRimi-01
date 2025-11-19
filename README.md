@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadiaRimi-01/sadiaRimi-01/refs/heads/main/black-green-banner.png
-" alt="Sadia Akter Rimi Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sadiaRimi-01/sadiaRimi-01/main/black-green-banner.png" alt="Sadia Akter Rimi Banner" width="100%" />
 </p>
 
 
